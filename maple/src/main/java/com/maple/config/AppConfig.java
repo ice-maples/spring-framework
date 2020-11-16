@@ -10,7 +10,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  */
 @Configuration
 @ComponentScan("com.maple")
-@ImportResource("classpath:spring.xml")
+//@ImportResource("classpath:spring.xml")
 public class AppConfig {
 
 //	ClassPathXmlApplicationContext cc =
